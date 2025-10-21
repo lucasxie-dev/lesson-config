@@ -1,6 +1,6 @@
 {
   "seq": 2,
-  "updated_at": "2025-10-21T12:11:00Z",
+  "updated_at": "2025-08-31T04:15:00Z",
   "series": [
     {
       "id": "lesson-0001",
@@ -21,7 +21,7 @@
       "cover": "",
       "latest": "v1",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1.0.2/lesson-0002.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/ShadowA2PkgV1.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/v1.0.2/lesson-0002.zip.enc"
       },
       "size_bytes": 83456789,
@@ -33,7 +33,7 @@
       "cover": "",
       "latest": "v1",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/listening-b1/listening-b1.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/listening-b1-pkg-v1.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/listening-b1/listening-b1.zip.enc"
       },
       "size_bytes": 103456789,
@@ -45,7 +45,7 @@
       "cover": "",
       "latest": "v1",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/pronunciation/pronunciation.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/pronunciation-pkg-v1.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/pronunciation/pronunciation.zip.enc"
       },
       "size_bytes": 75432123,
@@ -57,7 +57,7 @@
       "cover": "",
       "latest": "v1",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/lexicon/lexicon.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lexicon-pkg-v1.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/lexicon/lexicon.zip.enc"
       },
       "size_bytes": 56345678,
@@ -69,7 +69,7 @@
       "cover": "",
       "latest": "v1",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/speaking-sprint/speaking-sprint.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/speaking-sprint-pkg-v1.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/speaking-sprint/speaking-sprint.zip.enc"
       },
       "size_bytes": 110234567,
@@ -81,7 +81,7 @@
       "cover": "",
       "latest": "v6",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/idioms-v5/idioms-v5.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/idioms-v5-pkg-v6.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/idioms-v5/idioms-v5.zip.enc"
       },
       "size_bytes": 42345678,
@@ -93,7 +93,7 @@
       "cover": "",
       "latest": "v1",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/travel-dialogues/travel-dialogues.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/travel-dialogues-pkg-v1.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/travel-dialogues/travel-dialogues.zip.enc"
       },
       "size_bytes": 34567890,
@@ -105,7 +105,7 @@
       "cover": "",
       "latest": "v1",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/business-english/business-english.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/business-english-pkg-v1.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/business-english/business-english.zip.enc"
       },
       "size_bytes": 147890234,
@@ -117,7 +117,7 @@
       "cover": "",
       "latest": "v2",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/phrasal-verbs/phrasal-verbs-v1.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/phrasal-verbs-pkg-v2.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/phrasal-verbs/phrasal-verbs-v1.zip.enc"
       },
       "size_bytes": 51234567,
