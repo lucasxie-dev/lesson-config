@@ -76,12 +76,12 @@
       "type": "6"
     },
     {
-      "id": "idioms",
+      "id": "lesson-0008",
       "title": "idioms",
       "cover": "",
-      "latest": "v6",
+      "latest": "v1",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/idioms-v5-pkg-v6.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0008-v6.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/idioms-v5/idioms-v5.zip.enc"
       },
       "size_bytes": 42345678,
