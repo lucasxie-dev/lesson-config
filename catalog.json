@@ -100,12 +100,12 @@
       "type": "9"
     },
     {
-      "id": "business-english",
+      "id": "lesson-0010",
       "title": "business_english_core",
       "cover": "",
       "latest": "v1",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/business-english-pkg-v1.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0010-v1.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/business-english/business-english.zip.enc"
       },
       "size_bytes": 147890234,
