@@ -81,7 +81,7 @@
       "cover": "",
       "latest": "v1",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0008-v6.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0008-v1.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/idioms-v5/idioms-v5.zip.enc"
       },
       "size_bytes": 42345678,
