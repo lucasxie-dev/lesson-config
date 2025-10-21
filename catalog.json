@@ -64,12 +64,12 @@
       "type": "5"
     },
     {
-      "id": "speaking-sprint",
+      "id": "lesson-0006",
       "title": "speaking_sprint",
       "cover": "",
       "latest": "v1",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/speaking-sprint-pkg-v1.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0006-v1.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/speaking-sprint/speaking-sprint.zip.enc"
       },
       "size_bytes": 110234567,
