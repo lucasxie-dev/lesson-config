@@ -40,12 +40,12 @@
       "type": "3"
     },
     {
-      "id": "pronunciation",
+      "id": "lesson-0004",
       "title": "pronunciation_lab",
       "cover": "",
       "latest": "v1",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/pronunciation-pkg-v1.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0004-v1.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/pronunciation/pronunciation.zip.enc"
       },
       "size_bytes": 75432123,
