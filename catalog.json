@@ -21,7 +21,7 @@
       "cover": "",
       "latest": "v1",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/ShadowA2PkgV1.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0002-v1.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/v1.0.2/lesson-0002.zip.enc"
       },
       "size_bytes": 83456789,
