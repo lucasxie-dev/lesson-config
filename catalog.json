@@ -112,12 +112,12 @@
       "type": "10"
     },
     {
-      "id": "phrasal-verbs",
+      "id": "lesson-0011",
       "title": "phrasal_verbs",
       "cover": "",
       "latest": "v1",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/phrasal-verbs-pkg-v2.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0011-v1.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/phrasal-verbs/phrasal-verbs-v1.zip.enc"
       },
       "size_bytes": 51234567,
