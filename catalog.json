@@ -28,12 +28,12 @@
       "type": "2"
     },
     {
-      "id": "listening-b1",
+      "id": "lesson-0003",
       "title": "listening_b1",
       "cover": "",
       "latest": "v1",
       "manifest": {
-        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/listening-b1-pkg-v1.zip.enc",
+        "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0003-v1.zip.enc",
         "backup":  "https://gitee.com/lucas-xie/learn/releases/download/listening-b1/listening-b1.zip.enc"
       },
       "size_bytes": 103456789,
