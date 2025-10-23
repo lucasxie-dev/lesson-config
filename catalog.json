@@ -10,7 +10,7 @@
       "latest": "v1",
       "manifest": {
         "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0001-v1.zip.enc",
-        "backup":  "https://gitee.com/lucas-xie/learn/releases/download/v1.0.1/lesson-0001.zip.enc"
+        "backup":  "https://gitee.com/lucas-xie/lesson/releases/download/v1.0.0/lesson-0001-v1.zip.enc"
       },
       "size_bytes": 120345678,
       "type": "1"
@@ -22,7 +22,7 @@
       "latest": "v1",
       "manifest": {
         "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0002-v1.zip.enc",
-        "backup":  "https://gitee.com/lucas-xie/learn/releases/download/v1.0.2/lesson-0002.zip.enc"
+        "backup":  "https://gitee.com/lucas-xie/lesson/releases/download/v1.0.0/lesson-0002-v1.zip.enc"
       },
       "size_bytes": 83456789,
       "type": "2"
@@ -34,7 +34,7 @@
       "latest": "v1",
       "manifest": {
         "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0003-v1.zip.enc",
-        "backup":  "https://gitee.com/lucas-xie/learn/releases/download/listening-b1/listening-b1.zip.enc"
+        "backup":  "https://gitee.com/lucas-xie/lesson/releases/download/v1.0.0/lesson-0003-v1.zip.enc"
       },
       "size_bytes": 103456789,
       "type": "3"
@@ -46,7 +46,7 @@
       "latest": "v1",
       "manifest": {
         "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0004-v1.zip.enc",
-        "backup":  "https://gitee.com/lucas-xie/learn/releases/download/pronunciation/pronunciation.zip.enc"
+        "backup":  "https://gitee.com/lucas-xie/lesson/releases/download/v1.0.0/lesson-0004-v1.zip.enc"
       },
       "size_bytes": 75432123,
       "type": "4"
@@ -58,7 +58,7 @@
       "latest": "v1",
       "manifest": {
         "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0005-v1.zip.enc",
-        "backup":  "https://gitee.com/lucas-xie/learn/releases/download/lexicon/lexicon.zip.enc"
+        "backup":  "https://gitee.com/lucas-xie/lesson/releases/download/v1.0.0/lesson-0005-v1.zip.enc"
       },
       "size_bytes": 56345678,
       "type": "5"
@@ -70,7 +70,7 @@
       "latest": "v1",
       "manifest": {
         "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0006-v1.zip.enc",
-        "backup":  "https://gitee.com/lucas-xie/learn/releases/download/speaking-sprint/speaking-sprint.zip.enc"
+        "backup":  "https://gitee.com/lucas-xie/lesson/releases/download/v1.0.0/lesson-0006-v1.zip.enc"
       },
       "size_bytes": 110234567,
       "type": "6"
@@ -82,7 +82,7 @@
       "latest": "v1",
       "manifest": {
         "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0008-v1.zip.enc",
-        "backup":  "https://gitee.com/lucas-xie/learn/releases/download/idioms-v5/idioms-v5.zip.enc"
+        "backup":  "https://gitee.com/lucas-xie/lesson/releases/download/v1.0.0/lesson-0008-v1.zip.enc"
       },
       "size_bytes": 42345678,
       "type": "8"
@@ -94,7 +94,7 @@
       "latest": "v1",
       "manifest": {
         "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0009-v1.zip.enc",
-        "backup":  "https://gitee.com/lucas-xie/learn/releases/download/travel-dialogues/travel-dialogues.zip.enc"
+        "backup":  "https://gitee.com/lucas-xie/lesson/releases/download/v1.0.0/lesson-0009-v1.zip.enc"
       },
       "size_bytes": 34567890,
       "type": "9"
@@ -106,7 +106,7 @@
       "latest": "v1",
       "manifest": {
         "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0010-v1.zip.enc",
-        "backup":  "https://gitee.com/lucas-xie/learn/releases/download/business-english/business-english.zip.enc"
+        "backup":  "https://gitee.com/lucas-xie/lesson/releases/download/v1.0.0/lesson-0010-v1.zip.enc"
       },
       "size_bytes": 147890234,
       "type": "10"
@@ -118,7 +118,7 @@
       "latest": "v1",
       "manifest": {
         "primary": "https://github.com/lucasxie-dev/lesson-config/releases/download/v1/lesson-0011-v1.zip.enc",
-        "backup":  "https://gitee.com/lucas-xie/learn/releases/download/phrasal-verbs/phrasal-verbs-v1.zip.enc"
+        "backup":  "https://gitee.com/lucas-xie/lesson/releases/download/v1.0.0/lesson-0011-v1.zip.enc"
       },
       "size_bytes": 51234567,
       "type": "11"
